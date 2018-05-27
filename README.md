@@ -1,4 +1,4 @@
-Reliance Core
+SwiftCore
 ===============================
 
-http://reliance-coin.com
+http://swiftcash.com
